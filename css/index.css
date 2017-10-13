@@ -1,0 +1,274 @@
+body {
+    background-color: #cccccc;
+}
+
+.margin-right-left {
+    margin:0px 80px;
+}
+
+#header {
+    background-color: #272780;
+    background-image: url("../images/bg0.png");
+    height: 286px;
+    background-repeat: no-repeat;
+    background-position: bottom left;
+}
+
+#header-picture {
+    margin: 56px 0px 0px 415px;
+}
+
+#page-banner {
+    background-image: url("../images/banner.png");
+}
+
+#banner-image {
+    background-image: url("../images/bg2.png");
+    background-repeat: no-repeat;
+    background-position: top left;
+}
+
+#banner-content {
+    margin: 0px 290px;
+    height: 482px;
+    background-color: rgba(39, 39, 128, 0.8);
+    padding: 36px 78px 0px 78px;
+    font-family: sans-serif;
+    color: #ffffff;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.bottom-border {
+    border-bottom: solid 2px #fff;
+    margin: 0;
+    padding: 20px;
+}
+
+h3 {
+    font-size: 26px;
+    font-weight: 500;
+}
+
+#logo {
+    margin-top: 57px;
+}
+
+.p-content {
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    margin: 48px 0px;
+}
+
+.icon-margin {
+    margin-right: 18px;
+}
+
+.button-sign-up {
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 6px;
+    font-size: 18px;
+    padding: 10px 16px;
+    color: #ffffff;
+    background-color: #5cb85c;
+    border: 1px solid;
+    border-color: #4cae4c;
+}
+
+.button-sign-up:hover{
+    background-color: #4cae4c;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+}
+
+#banner-footer {
+    height: 275px;
+    background-image: url("../images/bg3.png");
+    background-repeat: no-repeat;
+    background-position: bottom left;
+}
+
+#introduction {
+    background-color: #f05a28;
+    background-image: url(../images/bg4.png);
+    background-repeat: no-repeat;
+    background-position: top left;
+    font-family: sans-serif;
+    color: #ffffff;
+}
+
+#vertical-coderetreat {
+    margin: 110px 120px 120px 120px;
+    width: 40px;
+}
+
+.clear-both {
+    clear: both;
+}
+
+.float-left {
+    float: left;
+    display: inline-block;
+}
+
+.introduction-content {
+    padding: 50px 55px 90px 50px ;
+
+}
+
+#facilitator {
+    background-color: #ffffff;
+}
+
+#facilitator-heading {
+    margin: 0px 0 40px 110px;
+    padding-top: 40px;
+    color: white;
+    width: 220px;
+    height: 288px;
+    background-color: #272780;
+    font-family: sans-serif;
+}
+
+h2 {
+    font-size: 30px;
+    line-height: 450px;
+}
+
+.facilitator-profile {
+    padding-top: 150px;
+    position: relative;
+}
+
+.facilitator-image {
+    width: 100%;
+    height: 100%;
+}
+
+.facilitator-content {
+    width: 263px;
+    height: 304px;
+}
+
+.facilitator-decor {
+    background-image: url("../images/facilitator-decor.png");
+    background-repeat: no-repeat;
+    z-index: 1;
+    width: 46px;
+    height: 46px;
+    display: block;
+    top: 445px;
+    position: absolute;
+}
+
+.facilitator-info {
+    border-left: solid 3px #272780;
+    padding-top: 30px;
+}
+
+.p-facilitator {
+    color: #f05a28;
+    padding-left: 22px;
+    font-size: 20px;
+    text-align: left;
+}
+
+.half {
+    width: 50%;
+}
+
+#agenda {
+    background-color: #ffffff;
+
+}
+
+#agenda-image {
+    background-image: url(../images/bg5.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    padding: 80px;
+    font-family: sans-serif;
+}
+
+.image-agenda {
+    width: 100%;
+    height: 100%;
+}
+
+#agenda-header {
+    color: #f05a28;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+#table-agenda {
+    border: 0.5px solid black;
+    border-collapse: collapse;
+    line-height: 2;
+}
+
+.first-col {
+    text-align: right;
+    padding-right: 10px;
+    width: 30%;
+}
+
+.second-col {
+    width: 583px;
+}
+
+.table-heading {
+    background-color: #cfe2f3;
+    font-weight: bold;
+}
+
+.preparation-note {
+    font-size: 16pt;
+    font-style: italic;
+    margin-top: 20px;
+}
+
+.note-label {
+    color: #f05a28;
+}
+
+#interest {
+    background-color: #ffffff;
+    float: left;
+}
+
+#audience {
+    background-color: white;
+}
+
+.audience-knowledge {
+    width: 50%;
+}
+h4 {
+    color: #f05a28;
+    padding-left: 30px;
+    margin-top: 40px;
+    font-weight: bold;
+    font-size: 18pt;
+}
+
+p, li {
+    font-size: 14pt;
+}
+
+.fix-bottom {
+    padding-bottom: 18px;
+}
+
+#footer {
+    background-color: white;
+    background-image: url(../images/footer-background.png);
+    background-repeat: no-repeat;
+    background-position: bottom center;
+}
