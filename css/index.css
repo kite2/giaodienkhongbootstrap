@@ -249,6 +249,7 @@ h2 {
 
 .audience-knowledge {
     width: 50%;
+    font-family: sans-serif;
 }
 h4 {
     color: #f05a28;
@@ -263,7 +264,11 @@ p, li {
 }
 
 .fix-bottom {
-    padding-bottom: 18px;
+    padding-bottom: 30px;
+}
+
+.fix-top {
+    padding-top: 25px;
 }
 
 #footer {
